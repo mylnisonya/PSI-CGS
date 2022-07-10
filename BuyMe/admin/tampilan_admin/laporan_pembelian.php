@@ -118,7 +118,7 @@ include 'session.php';
               <h3 class="mb-0">Laporan Pembelian dari <?php echo $tgl_mulai ?> hingga <?php echo $tgl_selesai ?></h3>
               <div class="icon-examples"">
                 <br></br>
-                  <a href="laporan_grafik.php" class="btn btn-info">Grafik Pendapatan Penjualan</a>
+                  <a href="laporan_grafik.php" class="btn btn-info">Grafik Penjualan Terbanyak</a>
                 </div>
             </div>
             
